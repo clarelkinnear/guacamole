@@ -3,3 +3,4 @@
 -	Juice 1 lime
 -	Chop 1 jalapeno
 -	Mash it all together
+-	add salt

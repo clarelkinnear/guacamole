@@ -2,7 +2,7 @@
 -	Chop 1 onion
 -	Juice 1 lime
 -	Chop 4 jalapenos
-
+-	Cut the onions
 -	Mash it all together
 -	add salt
 -	add chopped cilantro
